@@ -1,4 +1,4 @@
-#Prollecto final E-commerce de CODERHOUSE-REACT.JS
+# Prollecto final E-commerce de CODERHOUSE-REACT.JS
 # https://proyectofinalcoderhouseecommerce.netlify.app/
 # coder-app
 
