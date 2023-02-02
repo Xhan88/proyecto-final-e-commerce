@@ -1,0 +1,15 @@
+.cantidadProd{
+  padding-left: 110px;
+  font-size: 30px;
+  color: white;
+}
+.card-header{
+  background-color: #21ffe2;
+  color: rgb(12, 14, 73);
+}
+.card-body{
+  padding-left: 54px;
+}
+.card-footer {
+  padding-left: 24px;
+}

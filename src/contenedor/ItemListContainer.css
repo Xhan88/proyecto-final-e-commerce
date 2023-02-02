@@ -1,0 +1,43 @@
+.card {
+  margin-top: 10px;
+}
+.loading-style {
+  color: azure;
+  padding: 0;
+}
+
+button {
+  background-color: rgb(210, 218, 55);
+  border: none;
+  border-radius: 4px;
+  color:rgb(0, 0, 0);
+  cursor: pointer;
+  margin-left: 30px;
+}
+button:hover{
+  background-color: rgb(179, 178, 178);
+  
+}
+h2{ 
+  background-color: rgb(32, 167, 155);
+}
+.col-md-3{
+  margin-right: 50rem;
+  padding-top: 20px;
+  margin-top: 10px;
+  border-radius: 10px;
+  background-color: rgb(255, 255, 255);
+}
+.greeting{
+  color: aqua;
+}
+
+@media (max-width:  350px)   {
+  .col-md-3 {
+      height: 10rem;
+    }
+    .loading-style {
+      padding-left: -20rem;
+    }
+}
+
