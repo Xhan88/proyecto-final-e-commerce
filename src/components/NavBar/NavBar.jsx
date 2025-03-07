@@ -6,7 +6,7 @@ import '../NavBar/NavBar.css'
 const NavBar = () => {
   return (
     
-    <section className="container " style={{ marginLeft: 23}}>
+    <section className="container">
       <Link to='/category/Juguetes para niño'>
               <img src="https://img.freepik.com/vector-premium/tienda-juguetes-clasicos-vintage-horse-retro-label-badge-diseno-logotipo_560919-82.jpg?w=2000" alt="" />
       </Link>

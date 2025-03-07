@@ -16,10 +16,7 @@ img {
   background-color: rgb(255, 255, 255);
   line-height: 30px;
   border-radius: 10px;
-  width: 140rem;
   height: 100px;
-  margin-left: 10px;
-  margin-right: -100px;
   margin-top: 20px;
 }
 @media (max-width:  768px)   {
@@ -54,7 +51,7 @@ a {
   margin-top: 10px;
   font-family: 'Rubik Microbe', cursive;
   display: flex;
-  padding-left: 10px;
+  align-items: center;
   
 }
 li {
